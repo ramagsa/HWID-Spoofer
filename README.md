@@ -1,7 +1,4 @@
 # HWID-Spoofer
 A free to use spoofer maybe a bit broken
-HOW TO USE 
-you will need python 3.14 downloaded for it to work
-turn on cmd WITH administration rights or it will NOT WORK
-locate the disk you have the python script and paste this command: python hwid_spoofer_final.py
-I will try to make an app of the spoofer.
+HOW TO USE
+Already made a spoofer just use it as administrator rights and press the spoof button !
